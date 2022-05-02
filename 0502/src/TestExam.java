@@ -14,7 +14,7 @@ public class TestExam {
 			System.out.println(i);
 		}
 		
-		System.out.println("1~" + num + "까지 3의 배수이면서 홀수인 수의 합은 " + sum + "입니다.");
+		System.out.println("1~" + num + "까지 3의 배수이면서 홀수인 수의 합은 " + sum + "입니다");
 	}
 
 }
